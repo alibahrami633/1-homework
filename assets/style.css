@@ -1,0 +1,13 @@
+.box-shadow-style {
+    background-color: #3f3f3f;
+    color: white;
+    box-shadow: 1px 1px 8px 3px grey;
+}
+
+.page-header h2 {
+    border-bottom: 2px solid grey;
+}
+
+main {
+    margin-top: 10px;
+}
