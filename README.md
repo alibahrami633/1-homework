@@ -2,10 +2,13 @@
 <h2>Personal Website/Portfolio template</h2>
 
 ## Decription
-This project is conducted in order to start building a comprhensive porfolio in the next steps. 
-It is considered as a template for the future personal website.
+This project is conducted in order to start building a comprhensive porfolio in the next steps.
 
-## Considerations
+It is considered as a template for the future developments.
+
+The project uses Bootstrap for the main styling and uses CSS for slight styling changes.
+
+## Technologies
 Bootstrap - responsive design - mobile first - navigation - portfolio
 
 ## Structure
@@ -23,3 +26,6 @@ The website has three main pages: "home", "portfolio", and "contact".
     <span>Contact</span><hr/>
     <img alt="Contact" src="https://github.com/alibahrami633/1-homework/blob/master/assets/screenshots/contact.jpg">
 </p>
+
+## Contributors
+Ali Bahrami (mailto:ali.bahrami633@yahoo.com)
