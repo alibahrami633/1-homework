@@ -20,6 +20,6 @@ The website has three main pages: "home", "portfolio", and "contact".
     <img alt="Portfolio" src="https://github.com/alibahrami633/1-homework/blob/master/assets/screenshots/portfolio.png">
 </p>
 <p align="center">
-    <span>Contact</span>
+    <span>Contact</span><hr/>
     <img alt="Contact" src="https://github.com/alibahrami633/1-homework/blob/master/assets/screenshots/contact.jpg">
 </p>
