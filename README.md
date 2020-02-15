@@ -28,4 +28,4 @@ The website has three main pages: "home", "portfolio", and "contact".
 </p>
 
 ## Contributors
-Ali Bahrami (mailto:ali.bahrami633@yahoo.com)
+<a href="mailto:ali.bahrami633@yahoo.com">Ali Bahrami</a>
