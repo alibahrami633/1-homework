@@ -1,5 +1,5 @@
-## Title
-Personal Website/Portfolio template
+
+<h2>Personal Website/Portfolio template</h2>
 
 ## Decription
 This project is conducted in order to start building a comprhensive porfolio in the next steps. 
